@@ -638,7 +638,6 @@ Products Page
   grid-gap: 1rem;
   margin: 4rem auto;
   max-width: var(--max-width);
-  min-height: calc(100vh - 20rem);
   position: relative;
 }
 .filters-container {
